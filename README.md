@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fijianblood
+- 👋 Hi, I’m from Fiji 
 - 👀 I’m looking for young #fijiancoder that wants to learn
-- 🌱 I’m currently learning MS CSS html java php  
-- 💞️ I’m looking to collaborate with young fijian minds to build our own little world 
+- 🌱 I’m currently teaching MS CSS html java php   
+- 💞️ I’m looking to collaborate with young fijian minds to build our own pacific world 
 - 📫 How to reach me is by my email: sales@lomavatatech.com
 
 <!---
